@@ -9,6 +9,11 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-native-community/netinfo": "^8.1.0",
+    "amazon-cognito-identity-js": "^5.2.8",
+    "amplify": "0.0.11",
+    "aws": "0.0.3-2",
+    "aws-amplify-react-native": "^6.0.3",
     "expo": "~44.0.2",
     "expo-splash-screen": "~0.14.1",
     "expo-status-bar": "~1.2.0",
