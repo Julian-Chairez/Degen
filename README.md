@@ -1,2 +1,2 @@
 # Degen
-Hosting through Aws using AWS Amplify
+Hosted through Aws using AWS Amplify
